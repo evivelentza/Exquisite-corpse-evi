@@ -1,6 +1,6 @@
 # First project
 
-Welcome my first collaborative project!
+Welcome to my first collaborative project!
 
 Hello,
 I am doing changes.
