@@ -1,3 +1,3 @@
 #First project
 
-Welcome to my first project!
+Welcome my first collaborative project!
